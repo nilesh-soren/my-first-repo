@@ -1,1 +1,1 @@
-# my-first-repo
+# My First Repository (my-first-repo)
